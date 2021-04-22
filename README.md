@@ -6,7 +6,7 @@ that are optimized for FDM 3D printing.**
 There is a chapter further down on why you might want to or why you might not want to use 3D printed plastic screws.  
 
 <!--- ![ShowcaseOfSomePossibleScrews](screwdemo.png) --->
-<img src="screwdemo.png" alt="ShowcaseOfSomePossibleScrews" width="100"/>
+<img src="screwdemo.png" alt="ShowcaseOfSomePossibleScrews" width="100%"/>
 
 Above examples in demo.scad  
 
