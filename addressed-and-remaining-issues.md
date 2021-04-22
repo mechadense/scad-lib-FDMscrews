@@ -5,7 +5,7 @@ Up: [README.md](README.md)
 OpenSCADs default linear_extrude(hetght=...,twist=...) is not usable because of the following:  
 
 <!--- ![ShowcaseProplemWithOpenSCADs linear_extrude](OpenSCADs-native-triangulation-issue.png) --->
-<img src="OpenSCADs-native-triangulation-issue.png" alt="ShowcaseProplemWithOpenSCADs linear_extrude" width="100"/>
+<img src="OpenSCADs-native-triangulation-issue.png" alt="ShowcaseProplemWithOpenSCADs linear_extrude" width="100%"/>
 Not a nice triangulation. A spikey mess.  
 Here especially well visible at the perimeter on the left.
 
@@ -41,7 +41,7 @@ Unfortunately it was overlooked that this does not work for all thread profiles 
 Check out this fail:
 
 <!--- ![ShowcaseNewTriangulationIssue](new-triangulation-issue.png) --->
-<img src="new-triangulation-issue.png" alt="ShowcaseNewTriangulationIssue" width="100"/>
+<img src="new-triangulation-issue.png" alt="ShowcaseNewTriangulationIssue" width="100%"/>
 Not a nice triangulation. A steppy mess.  
 
 Especially profiles with high slopes in their cross section are not well handeled. 
