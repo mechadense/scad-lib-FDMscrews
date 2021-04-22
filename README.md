@@ -9,6 +9,7 @@ There is a chapter further down on why you might want to or why you might not wa
 <img src="screwdemo.png" alt="ShowcaseOfSomePossibleScrews" width="100%"/>
 
 Above examples in demo.scad  
+Precompiled 3D-printable example in [demo_nutAndBolt.stl](demo_nutAndBolt.stl)  
 
 **Existing standards are not a focus and not provided here since:**  
 
