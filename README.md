@@ -150,10 +150,6 @@ and the standard FDM nozzel diamater is about 0.4mm)
 The planned solution:   
 Designing of a dedicated cliplock for these kinds of low-pitched screws.  
 
-# Known specific issues
-
-WARNING: Too many unnamed arguments supplied, in file lib-FDMscrews.scad, line 217  
-
 ## Other screw-libraries for existing standards (none are meant for FDM printing)
 
 To my knowledge there are no screw standards that where 
