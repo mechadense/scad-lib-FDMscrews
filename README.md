@@ -13,7 +13,7 @@ Precompiled 3D-printable example in [demo_nutAndBolt.stl](demo_nutAndBolt.stl)
 
 **Existing standards are not a focus and not provided here since:**  
 
-* Existing standards (metric, imperial, …) are not and where never meant for FDM printing (with its peculiar design constraints)  
+* Existing standards (metric, imperial, …) are not and were never meant for FDM printing (with its peculiar design constraints)  
 * OpenSCAD libraries for existing standards do exist <br> (references at the very end)  
 
 ## Installation
@@ -149,10 +149,6 @@ and the standard FDM nozzel diamater is about 0.4mm)
 **these screws do not have good self holding by friction properties**.  
 The planned solution:   
 Designing of a dedicated cliplock for these kinds of low-pitched screws.  
-
-# Known specific issues
-
-WARNING: Too many unnamed arguments supplied, in file lib-FDMscrews.scad, line 217  
 
 ## Other screw-libraries for existing standards (none are meant for FDM printing)
 
