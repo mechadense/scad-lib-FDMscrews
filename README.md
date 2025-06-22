@@ -24,12 +24,12 @@ http://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Libraries
 
 ## Basic Usage
 
-Import the library with:
-**use <scad-lib-FDMscrews/lib-FDMscrews-HOF.scad>** (recommended - orders of magnitude faster - complete backwards compatibility)
-**use <scad-lib-FDMscrews/lib-FDMscrews.scad>** (original version - was way too slow)
-The HOF (Higher-Order Function) version leverages OpenSCAD's ability to pass functions as parameters (that old OpenSCAD versions lacked),
-eliminating expensive list operations like flatten() and enabling direct geometry generation with dramatic performance improvements. 
-String-based profile selection is still supported for backwards compatibility.
+Import the library with:  
+**use <scad-lib-FDMscrews/lib-FDMscrews-HOF.scad>** (recommended - orders of magnitude faster - complete backwards compatibility)  
+**use <scad-lib-FDMscrews/lib-FDMscrews.scad>** (original version - was way too slow)  
+The HOF (Higher-Order Function) version leverages OpenSCAD's ability to pass functions as parameters,  
+eliminating expensive list operations like flatten() and enabling direct geometry generation with dramatic performance improvements.  
+String-based profile selection is still supported for backwards compatibility.  
 
 Then get stared with the demos in demo.scad or the following:
 
