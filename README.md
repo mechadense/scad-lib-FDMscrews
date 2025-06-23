@@ -31,7 +31,7 @@ The HOF (Higher-Order Function) version leverages OpenSCAD's ability to pass fun
 eliminating expensive list operations like flatten() and enabling direct geometry generation with dramatic performance improvements.  
 String-based profile selection is still supported for backwards compatibility.  
 
-Then get stared with the demos in demo.scad or the following:
+Then get started with the demos in demo.scad or the following:
 
 **screwByPitch(pitch=3.6, d0=12, dr=1.5, length=12, flat=0.6);**  
 **screwByTwist(twist=360*4, d0=12, dr=1.5, length=12, flat=0.6);**  
